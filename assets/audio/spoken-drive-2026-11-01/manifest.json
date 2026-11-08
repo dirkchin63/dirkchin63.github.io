@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "spoken-drive-cmn",
+  "version": "2026-11-01-v1",
+  "audioLanguage": "cmn",
+  "intervalSeconds": 1,
+  "sourceFolder": "https://drive.google.com/drive/folders/16lXtttHWO2ckMQelEbj_c7oqPku3BSno",
+  "sourceDescription": "espeak-ng (cmn) 合成，經 ffmpeg 去頭尾靜音、響度正規化（-16 LUFS）、統一長度",
+  "assets": [
+    {
+      "symbol": "0",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-0.wav",
+      "sha256": "0607993ba14e5c4c0ce142a12c65b2ce5e793f2e7f55920f90bc2ae74aed2f7a",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-0.mp3",
+      "sourceDriveId": "1u_I6vUMAMw9kDS0ErL6RM564ZCA95E0z",
+      "sourceSha256": "c21ee78ba5be32c19a99a0f99aae07236cd44352cfa4ab88a2ffbd3d3fa44062",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "1",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-1.wav",
+      "sha256": "51d84776c9e6b6cd6f5209a58eb5fe063dbffcfa7218cabf2e7100915f3b537b",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-1.mp3",
+      "sourceDriveId": "1S0HXKrVPTTdpNvRSOuj454gLqPiHKysb",
+      "sourceSha256": "92f1fe0c53e1e7fa401d937c981baffaa8de538994e0a83f17a6021137d18887",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "2",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-2.wav",
+      "sha256": "5b2c9707f8a0cb4c6e2a8e2f12fe3ce050a44bbc477ebe4ec11eb8240b29e4ab",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-2.mp3",
+      "sourceDriveId": "1Sw7DF6BkeQAo0Jxg4e5taQNvLQ6Yt9a4",
+      "sourceSha256": "f8a2b36ffe256a077b166807e711256d45e9973cb7056322ccd6f89a6e93670a",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "3",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-3.wav",
+      "sha256": "491aeba1d3f8aa5f4d61a59bd787e460965eac0b3b6142480795dc79925b7be8",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-3.mp3",
+      "sourceDriveId": "1xulGcBQ4wD3gNh9ZeGsi36gns2pcVWRb",
+      "sourceSha256": "3ba346125aee98f4dd3ed9a5d44cef3416867e003c61f6d7908844bdf42469e0",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "4",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-4.wav",
+      "sha256": "3b724885c8452b7f4d7154efc62bac6e6177beab34cc8834cccdd1992a787f2c",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-4.mp3",
+      "sourceDriveId": "1hX3xA4jM7K496WLgli5GX-xqfQhPNSBF",
+      "sourceSha256": "7604b7721d6c42cfc413f9972250eba5df2edd0522c82dff2e70de04df59dafb",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "5",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-5.wav",
+      "sha256": "9a551703725d3398eb7e88a2ce067353a02a9e1d43967607e4b13c45063e8b7b",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-5.mp3",
+      "sourceDriveId": "1q3J47r-5wlQR1udV0gyzrhSYWF9w2fBE",
+      "sourceSha256": "d7ff0e9d66cf0d770c5039acdb629b50fef21db9b8d69e6d7f5c6988a6da459b",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "6",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-6.wav",
+      "sha256": "133b3a335838e3724761336cde58dc499f5525392d1e377af3d33cb4721589b8",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-6.mp3",
+      "sourceDriveId": "1ZZpA2-2lZlRNWzyzt9QClvZk9OqNG2t_",
+      "sourceSha256": "f64949b14835af653251cfedd0b3c574d456321421e015743819daa6ead0c72f",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "7",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-7.wav",
+      "sha256": "301a55e70c9ad6cb85dd0cf53d40cf0a5d7c5ffc2f13291b56a1126755a584c8",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-7.mp3",
+      "sourceDriveId": "1m6wIJ6j-x8FfdW9mEft_tu9zNTuyJPOa",
+      "sourceSha256": "7ced389f58ab15dc027a0c473bf51b25a91cdefb6f35bb6f173433000954a4e7",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "8",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-8.wav",
+      "sha256": "6dca9b47eae64b9a95f00346e89a24cc5c041d8ed01b42a546aa8a73a57dff16",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-8.mp3",
+      "sourceDriveId": "1RkpBQ9VWoe9MdfdqaYydHoTQ6bjeStxv",
+      "sourceSha256": "b3c374200bef0e85bc9d0bebabd090a16b80c8cc6586dd2f0bc0710614fc23bf",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "9",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/digit-9.wav",
+      "sha256": "7e45fc89f20a38cedf435845c2ae0dbd06d75cd0a160163a7502272130ec30ec",
+      "frames": 11703,
+      "seconds": 0.7314375,
+      "sourceFile": "digit-9.mp3",
+      "sourceDriveId": "1SVXis5Uy_KePkEIVf5XULo5UGP8moUeZ",
+      "sourceSha256": "ecde4c407aaecfaa48ee24a468fb5244d4e73ce93e912e0dcc1c488ab89f6408",
+      "sourceBytes": 9135
+    },
+    {
+      "symbol": "A",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/cue-A.wav",
+      "sha256": "aaf2d1fd9b1613c09e13d003f29807aac555c3553a7b129aefc77a1052ba7932",
+      "frames": 12550,
+      "seconds": 0.784375,
+      "source": "macOS say Samantha, 180 words/minute; cue only, trimmed silence"
+    },
+    {
+      "symbol": "B",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/cue-B.wav",
+      "sha256": "dffd4c114aacbb17d4ef31b4c511502ba7be7aa3725577c326282e6e1605d7e3",
+      "frames": 12605,
+      "seconds": 0.7878125,
+      "source": "macOS say Samantha, 180 words/minute; cue only, trimmed silence"
+    },
+    {
+      "symbol": "C",
+      "path": "assets/audio/spoken-drive-2026-11-01/pcm/cue-C.wav",
+      "sha256": "1138bbad317eb6b51ee6c80bf9044a7c0505d5e66d6ed0448ced6aff83a4fac1",
+      "frames": 13572,
+      "seconds": 0.84825,
+      "source": "macOS say Samantha, 180 words/minute; cue only, trimmed silence"
+    }
+  ]
+}

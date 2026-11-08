@@ -1,0 +1,150 @@
+{
+  "source": "Flutter 0.3.3+19 lib/data/demo_content.dart",
+  "purpose": "practice-demo",
+  "words": {
+    "en": [
+      "Apple",
+      "Train",
+      "Library",
+      "Moon",
+      "River",
+      "Garden",
+      "Music",
+      "Window",
+      "Ocean",
+      "Camera",
+      "Bridge",
+      "Island",
+      "Pencil",
+      "Cloud",
+      "Lantern",
+      "Mountain",
+      "Butterfly",
+      "Clock",
+      "Forest",
+      "Star"
+    ],
+    "zh-Hant": [
+      "蘋果",
+      "火車",
+      "圖書館",
+      "月亮",
+      "河流",
+      "花園",
+      "音樂",
+      "窗戶",
+      "海洋",
+      "相機",
+      "橋樑",
+      "島嶼",
+      "鉛筆",
+      "雲朵",
+      "燈籠",
+      "山峰",
+      "蝴蝶",
+      "時鐘",
+      "森林",
+      "星星"
+    ],
+    "zh-Hans": [
+      "苹果",
+      "火车",
+      "图书馆",
+      "月亮",
+      "河流",
+      "花园",
+      "音乐",
+      "窗户",
+      "海洋",
+      "相机",
+      "桥梁",
+      "岛屿",
+      "铅笔",
+      "云朵",
+      "灯笼",
+      "山峰",
+      "蝴蝶",
+      "时钟",
+      "森林",
+      "星星"
+    ]
+  },
+  "names": {
+    "en": [
+      [
+        "Lam",
+        "Alex"
+      ],
+      [
+        "Chan",
+        "Emma"
+      ],
+      [
+        "Lee",
+        "Noah"
+      ],
+      [
+        "Wong",
+        "Mia"
+      ]
+    ],
+    "zh-Hant": [
+      [
+        "林",
+        "志明"
+      ],
+      [
+        "陳",
+        "雅文"
+      ],
+      [
+        "李",
+        "子軒"
+      ],
+      [
+        "黃",
+        "欣怡"
+      ]
+    ],
+    "zh-Hans": [
+      [
+        "林",
+        "志明"
+      ],
+      [
+        "陈",
+        "雅文"
+      ],
+      [
+        "李",
+        "子轩"
+      ],
+      [
+        "黄",
+        "欣怡"
+      ]
+    ]
+  },
+  "faces": [
+    {
+      "id": "face-0",
+      "image": "/assets/face-1.jpg",
+      "sha256": "61c1ba65416a8b60bbf25604e2c7fea5932fbf07b20eee11d5397717b424ebae"
+    },
+    {
+      "id": "face-1",
+      "image": "/assets/face-2.jpg",
+      "sha256": "220ab74b299f30342a89f6e22b7d48c689b8a440cd9882df20725f3de3c700d3"
+    },
+    {
+      "id": "face-2",
+      "image": "/assets/face-3.jpg",
+      "sha256": "4a13e0dc2e5d94bd1299767326c7c5bc148e9265770dff3645a91175208f6e45"
+    },
+    {
+      "id": "face-3",
+      "image": "/assets/face-4.jpg",
+      "sha256": "ba44575fd0c6420c01413d3cd0acb35c6f98debe2160843d2bf582288d4fe706"
+    }
+  ]
+}

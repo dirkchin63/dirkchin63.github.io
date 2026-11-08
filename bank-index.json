@@ -1,0 +1,21 @@
+{
+  "abstract": {
+    "url": "/assets/banks/abstracts-original-2026-11-04/manifest.json",
+    "sha256": "59f70c172adbf06ed6b681b1772b2780d14e84d8c532a3c777cb918a41ce3715",
+    "count": 20000
+  },
+  "dates": {
+    "url": "/assets/banks/dates-2026-11-01/manifest.json",
+    "sha256": "6e55c298c7378054e7460f1967622915019dfcba2219bd4a4bb85101df8363e1",
+    "count": 5000
+  },
+  "audio": {
+    "url": "/assets/audio/spoken-drive-2026-11-01/manifest.json",
+    "sha256": "573abc24399d68d4bc0bd1f7546306e448762849edc450f56bfb68a492184a21"
+  },
+  "demo": {
+    "url": "/demo-content.json",
+    "sha256": "9fcd384fcff1b56569e02e3458a7d7d45881c2772651319faead8d612a81a45b",
+    "count": 4
+  }
+}

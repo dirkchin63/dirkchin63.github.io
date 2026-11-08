@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "packages": [],
+  "imagePools": [
+    "assets/banks/abstracts-2026-10-31/manifest.json"
+  ],
+  "binaryPreset": 3000,
+  "datesPool": "assets/banks/dates-2026-11-01/manifest.json",
+  "spokenAudio": "assets/audio/spoken-drive-2026-11-01/manifest.json"
+}
