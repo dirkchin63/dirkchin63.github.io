@@ -1,4 +1,4 @@
-const SHELL='hkime-shell-ec3fe5134df1',SESSION='hkime-session-ec3fe5134df1',FULL='hkime-practice-offline-v2',BUILD='317f98d05facfa888c63',SHELL_URLS=["/assets/index-BSVqr6Ik.css","/assets/index-Dye7hNr2.js","/assets/logo.png","/bank-index.json","/demo-content.json","/","/offline-manifest.json"];
+const SHELL='hkime-shell-c45e07b3e799',SESSION='hkime-session-c45e07b3e799',FULL='hkime-practice-offline-v2',BUILD='70dc6fb3073b285f00e4',SHELL_URLS=["/assets/index-abmLw6t3.css","/assets/index-BDhJ-x7M.js","/assets/logo.png","/bank-index.json","/demo-content.json","/","/offline-manifest.json"];
 // SHELL, SESSION, FULL, BUILD and SHELL_URLS are injected by build.mjs.
 const optional = async (action) => { try { return await action(); } catch { return undefined; } };
 self.addEventListener('install', event => {
