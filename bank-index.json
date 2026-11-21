@@ -27,5 +27,20 @@
     "url": "/assets/banks/portraits-2026-11-05/manifest.json",
     "sha256": "9bbaa8c605388dc79ed813eb1cadc8982ecc1e657216fa847a17b80c01e3130b",
     "count": 5000
+  },
+  "words-zh-Hans": {
+    "url": "/assets/banks/words-v1/zh-Hans.json",
+    "count": 10000,
+    "sha256": "bcd9918d28f96f78b49abce49f44662e8be9236ddbe4fbbb94c179de212c9a5e"
+  },
+  "words-zh-Hant": {
+    "url": "/assets/banks/words-v1/zh-Hant.json",
+    "count": 10000,
+    "sha256": "b30739e59ac5366bcc5ea8fc334122db90bebfdf0824770faf472a33f5336d55"
+  },
+  "words-en": {
+    "url": "/assets/banks/words-v1/en.json",
+    "count": 10000,
+    "sha256": "07ec2786974762da2e1a00c3b82213aea96cad94d88ea4d4b5d652526d81357e"
   }
 }
